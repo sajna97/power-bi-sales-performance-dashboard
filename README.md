@@ -1,4 +1,5 @@
 Sales Performance Dashboard — Power BI
+![Dashboard Preview](screenshots/sales_summary.png)
 
 An interactive sales performance dashboard built in Power BI Desktop, using Microsoft's free Financial Sample dataset. This project was built end-to-end as a hands-on learning exercise — from data cleaning and modeling to DAX measures and final report design.
 
